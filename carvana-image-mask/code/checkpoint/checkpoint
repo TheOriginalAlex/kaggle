@@ -1,0 +1,2 @@
+model_checkpoint_path: "/output/carvana-model"
+all_model_checkpoint_paths: "/output/carvana-model"
